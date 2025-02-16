@@ -1,0 +1,19 @@
+SQL INTRO
+
+- SQL helps with databases formed in tables
+- there are different data types:
+	- INT
+	- DECIMAL
+	- SERIAL
+		- basically just like an integer, but automatically increases in value
+		- common if: flight number for instance if i want the first flight in the database as flight number 1,
+			the second flight number to be flight number 2
+	- VARCHAR
+		- variable length of characters
+		- if some sort of string or text is to be stored
+	- TIMESTAMP
+		- date and time
+	- BOOLEAN
+		- true or false
+	- ENUM
+		- one of a finite number of discrete possible values
